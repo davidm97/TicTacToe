@@ -1,4 +1,4 @@
-"""Two Player TicTacToe"""
+"""One Player TicTacToe"""
 
 import random
 
